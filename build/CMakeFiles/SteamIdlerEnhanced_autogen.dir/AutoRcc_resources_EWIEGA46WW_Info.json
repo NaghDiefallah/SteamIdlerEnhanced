@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "D:/Projects/SteamIdlerEnhanced/build/SteamIdlerEnhanced_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Projects/SteamIdlerEnhanced/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Projects/SteamIdlerEnhanced/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Projects/SteamIdlerEnhanced",
+	"CMAKE_SOURCE_DIR" : "D:/Projects/SteamIdlerEnhanced",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/Projects/SteamIdlerEnhanced/build/SteamIdlerEnhanced_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Projects/SteamIdlerEnhanced/ghost_launcher.exe",
+		"D:/Projects/SteamIdlerEnhanced/steam_api64.dll",
+		"D:/Projects/SteamIdlerEnhanced/themes/Dark.qss",
+		"D:/Projects/SteamIdlerEnhanced/themes/Light.qss",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/ru.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/fr.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/zh.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/es.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/de.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/ar.json",
+		"D:/Projects/SteamIdlerEnhanced/data/lang/en.json"
+	],
+	"LOCK_FILE" : "D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/SteamIdlerEnhanced_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.10.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/SteamIdlerEnhanced_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Projects/SteamIdlerEnhanced/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

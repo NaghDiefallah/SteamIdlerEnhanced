@@ -1,0 +1,137 @@
+/* Global Background and Text */
+QWidget {
+    background-color: #ffffff;
+    color: #24292f;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 13px;
+}
+
+/* Search Bar */
+QLineEdit {
+    background-color: #f6f8fa;
+    border: 1px solid #d1d9e0;
+    border-radius: 4px;
+    padding: 10px 15px;
+    color: #24292f;
+    selection-background-color: #0969da;
+}
+
+QLineEdit:focus {
+    border: 1px solid #0969da;
+}
+
+/* Scroll Areas */
+QScrollArea {
+    border: none;
+    background-color: transparent;
+}
+
+QScrollBar:vertical {
+    border: none;
+    background: #f6f8fa;
+    width: 10px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical {
+    background: #d1d9e0;
+    min-height: 20px;
+    border-radius: 5px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #0969da;
+}
+
+/* Game Result Rows */
+#ResultRow {
+    background-color: #f6f8fa;
+    border: 1px solid #d1d9e0;
+    border-radius: 4px;
+}
+
+#ResultRow:hover {
+    background-color: #f3f4f6;
+}
+
+/* Buttons */
+QPushButton {
+    padding: 5px 15px;
+    border-radius: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Start/Initiate Button */
+QPushButton#StartBtn {
+    background-color: #238636;
+    color: #ffffff;
+    border: none;
+}
+
+QPushButton#StartBtn:hover {
+    background-color: #2ea043;
+}
+
+QPushButton#StartBtn:disabled {
+    background-color: #d1d9e0;
+    color: #8b949e;
+}
+
+/* Stop/Terminate Button */
+QPushButton#StopBtn {
+    background-color: #da3633;
+    color: #ffffff;
+    border: none;
+}
+
+QPushButton#StopBtn:hover {
+    background-color: #b62324;
+}
+
+/* Pause/Resume Button */
+QPushButton#PauseBtn {
+    background-color: #d29922;
+    color: #ffffff;
+    border: none;
+}
+
+QPushButton#PauseBtn:hover {
+    background-color: #bb8009;
+}
+
+
+/* Active Session Cards */
+#SessionCard {
+    background-color: #f6f8fa;
+    border-left: 4px solid #0969da;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #d1d9e0;
+    border-radius: 4px;
+}
+
+QLabel#SessionTitle {
+    color: #0969da;
+    font-weight: bold;
+}
+
+/* Sidebar Header */
+#SidebarHeader {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d1d9e0;
+    padding: 5px;
+}
+
+QPushButton#GlobalBtn {
+    background-color: #f6f8fa;
+    color: #24292f;
+    border: 1px solid #d1d9e0;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+QPushButton#GlobalBtn:hover {
+    background-color: #0969da;
+    color: #ffffff;
+}

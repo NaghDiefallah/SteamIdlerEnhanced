@@ -1,0 +1,40 @@
+/* Main Window */
+QWidget {
+    background-color: #0D1117;
+    color: #C9D1D9;
+    font-size: 14px;
+}
+
+/* Search Bar */
+QLineEdit {
+    background-color: #010409;
+    border: 1px solid #30363D;
+    border-radius: 6px;
+    padding: 8px;
+    color: #58A6FF;
+    selection-background-color: #1f6feb;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #21262D;
+    border: 1px solid #30363D;
+    border-radius: 6px;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #30363D;
+    border-color: #8B949E;
+}
+
+/* Start Button Accent */
+QPushButton#IdleBtn {
+    background-color: #238636;
+    color: white;
+}
+
+QPushButton#IdleBtn:hover {
+    background-color: #2ea043;
+}

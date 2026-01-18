@@ -1,0 +1,8 @@
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/SteamIdlerEnhanced.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/ghost_launcher.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/edit_cache.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/rebuild_cache.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/SteamIdlerEnhanced_autogen_timestamp_deps.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/SteamIdlerEnhanced_autogen.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/ghost_launcher_autogen_timestamp_deps.dir
+D:/Projects/SteamIdlerEnhanced/build/CMakeFiles/ghost_launcher_autogen.dir

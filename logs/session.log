@@ -1,0 +1,240 @@
+[2026-01-14 07:42:12.745] [info] [tid 7248] --- ENTERPRISE LOGGER INITIALIZED ---
+[2026-01-14 07:42:12.894] [info] [tid 7248] Auto-resume enabled. Restoring previous sessions...
+[2026-01-15 00:55:16.220] [info] [tid 4448] --- LOGGING ---
+[2026-01-15 00:55:16.220] [info] [tid 4448] === Steam Idler Enhanced GUI Mode ===
+[2026-01-15 00:55:16.221] [info] [tid 4448] Stealth Engine initialized
+[2026-01-15 00:55:16.221] [info] [tid 4448] Applying stealth measures...
+[2026-01-15 00:55:16.221] [info] [tid 4448] Renamed ghost_launcher.exe to svc121sys.exe
+[2026-01-15 00:55:16.222] [info] [tid 4448] Renamed steam_api64.dll to win165mgr.dll
+[2026-01-15 00:55:16.230] [info] [tid 4448] Created decoy process: explorer.exe
+[2026-01-15 00:55:16.233] [info] [tid 4448] Created decoy process: lsass.exe
+[2026-01-15 00:55:16.233] [info] [tid 4448] Stealth measures applied - process disguised as: ms173host.exe
+[2026-01-15 00:55:16.365] [info] [tid 4448] Session History initialized
+[2026-01-15 00:55:16.408] [info] [tid 4448] Session history tables created successfully
+[2026-01-15 00:55:16.432] [info] [tid 4448] Steam Art Fetcher initialized
+[2026-01-15 00:55:16.432] [info] [tid 4448] Update Checker initialized - Current version: 1.1.0
+[2026-01-15 00:55:16.459] [info] [tid 4448] Fetching art for AppID: 10
+[2026-01-15 00:55:16.460] [info] [tid 4448] Fetching art for AppID: 20
+[2026-01-15 00:55:16.460] [info] [tid 4448] Fetching art for AppID: 30
+[2026-01-15 00:55:16.460] [info] [tid 4448] Fetching art for AppID: 40
+[2026-01-15 00:55:16.460] [info] [tid 4448] Fetching art for AppID: 50
+[2026-01-15 00:55:16.461] [info] [tid 4448] Fetching art for AppID: 60
+[2026-01-15 00:55:16.461] [info] [tid 4448] Fetching art for AppID: 70
+[2026-01-15 00:55:16.461] [info] [tid 4448] Fetching art for AppID: 80
+[2026-01-15 00:55:16.461] [info] [tid 4448] Fetching art for AppID: 130
+[2026-01-15 00:55:16.462] [info] [tid 4448] Fetching art for AppID: 220
+[2026-01-15 00:55:16.462] [info] [tid 4448] Fetching art for AppID: 240
+[2026-01-15 00:55:16.463] [info] [tid 4448] Fetching art for AppID: 300
+[2026-01-15 00:55:16.463] [info] [tid 4448] Fetching art for AppID: 320
+[2026-01-15 00:55:16.463] [info] [tid 4448] Fetching art for AppID: 360
+[2026-01-15 00:55:16.463] [info] [tid 4448] Fetching art for AppID: 400
+[2026-01-15 00:55:16.464] [info] [tid 4448] Fetching art for AppID: 440
+[2026-01-15 00:55:16.464] [info] [tid 4448] Fetching art for AppID: 500
+[2026-01-15 00:55:16.464] [info] [tid 4448] Fetching art for AppID: 550
+[2026-01-15 00:55:16.464] [info] [tid 4448] Fetching art for AppID: 570
+[2026-01-15 00:55:16.464] [info] [tid 4448] Fetching art for AppID: 620
+[2026-01-15 00:55:16.465] [info] [tid 4448] Fetching art for AppID: 630
+[2026-01-15 00:55:16.465] [info] [tid 4448] Fetching art for AppID: 730
+[2026-01-15 00:55:16.465] [info] [tid 4448] Fetching art for AppID: 1002
+[2026-01-15 00:55:16.465] [info] [tid 4448] Fetching art for AppID: 1200
+[2026-01-15 00:55:16.466] [info] [tid 4448] Fetching art for AppID: 1250
+[2026-01-15 00:55:16.466] [info] [tid 4448] Fetching art for AppID: 1300
+[2026-01-15 00:55:16.466] [info] [tid 4448] Fetching art for AppID: 1313
+[2026-01-15 00:55:16.466] [info] [tid 4448] Fetching art for AppID: 1500
+[2026-01-15 00:55:16.467] [info] [tid 4448] Fetching art for AppID: 1510
+[2026-01-15 00:55:16.467] [info] [tid 4448] Fetching art for AppID: 1520
+[2026-01-15 00:55:16.467] [info] [tid 4448] Fetching art for AppID: 1530
+[2026-01-15 00:55:16.467] [info] [tid 4448] Fetching art for AppID: 1600
+[2026-01-15 00:55:16.468] [info] [tid 4448] Fetching art for AppID: 1610
+[2026-01-15 00:55:16.468] [info] [tid 4448] Fetching art for AppID: 1620
+[2026-01-15 00:55:16.468] [info] [tid 4448] Fetching art for AppID: 1630
+[2026-01-15 00:55:16.468] [info] [tid 4448] Fetching art for AppID: 1640
+[2026-01-15 00:55:16.468] [info] [tid 4448] Fetching art for AppID: 1670
+[2026-01-15 00:55:16.469] [info] [tid 4448] Fetching art for AppID: 1690
+[2026-01-15 00:55:16.469] [info] [tid 4448] Fetching art for AppID: 1700
+[2026-01-15 00:55:16.469] [info] [tid 4448] Fetching art for AppID: 1840
+[2026-01-15 00:55:16.469] [info] [tid 4448] Fetching art for AppID: 1900
+[2026-01-15 00:55:16.469] [info] [tid 4448] Fetching art for AppID: 1930
+[2026-01-15 00:55:16.470] [info] [tid 4448] Fetching art for AppID: 2100
+[2026-01-15 00:55:16.470] [info] [tid 4448] Fetching art for AppID: 2200
+[2026-01-15 00:55:16.470] [info] [tid 4448] Fetching art for AppID: 2210
+[2026-01-15 00:55:16.470] [info] [tid 4448] Fetching art for AppID: 2270
+[2026-01-15 00:55:16.471] [info] [tid 4448] Fetching art for AppID: 2280
+[2026-01-15 00:55:16.471] [info] [tid 4448] Fetching art for AppID: 2310
+[2026-01-15 00:55:16.471] [info] [tid 4448] Fetching art for AppID: 2320
+[2026-01-15 00:55:16.471] [info] [tid 4448] Fetching art for AppID: 2400
+[2026-01-15 00:55:16.471] [info] [tid 4448] Fetching art for AppID: 2420
+[2026-01-15 00:55:16.472] [info] [tid 4448] Fetching art for AppID: 2450
+[2026-01-15 00:55:16.472] [info] [tid 4448] Fetching art for AppID: 2500
+[2026-01-15 00:55:16.472] [info] [tid 4448] Fetching art for AppID: 2520
+[2026-01-15 00:55:16.472] [info] [tid 4448] Fetching art for AppID: 2540
+[2026-01-15 00:55:16.473] [info] [tid 4448] Fetching art for AppID: 2590
+[2026-01-15 00:55:16.473] [info] [tid 4448] Fetching art for AppID: 2600
+[2026-01-15 00:55:16.473] [info] [tid 4448] Fetching art for AppID: 2610
+[2026-01-15 00:55:16.473] [info] [tid 4448] Fetching art for AppID: 2620
+[2026-01-15 00:55:16.474] [info] [tid 4448] Fetching art for AppID: 2630
+[2026-01-15 00:55:16.474] [info] [tid 4448] Fetching art for AppID: 2640
+[2026-01-15 00:55:16.474] [info] [tid 4448] Fetching art for AppID: 2700
+[2026-01-15 00:55:16.474] [info] [tid 4448] Fetching art for AppID: 2710
+[2026-01-15 00:55:16.474] [info] [tid 4448] Fetching art for AppID: 2720
+[2026-01-15 00:55:16.475] [info] [tid 4448] Fetching art for AppID: 2800
+[2026-01-15 00:55:16.475] [info] [tid 4448] Fetching art for AppID: 2810
+[2026-01-15 00:55:16.475] [info] [tid 4448] Fetching art for AppID: 2820
+[2026-01-15 00:55:16.475] [info] [tid 4448] Fetching art for AppID: 2840
+[2026-01-15 00:55:16.476] [info] [tid 4448] Fetching art for AppID: 2850
+[2026-01-15 00:55:16.476] [info] [tid 4448] Fetching art for AppID: 2870
+[2026-01-15 00:55:16.476] [info] [tid 4448] Fetching art for AppID: 2900
+[2026-01-15 00:55:16.476] [info] [tid 4448] Fetching art for AppID: 2910
+[2026-01-15 00:55:16.477] [info] [tid 4448] Fetching art for AppID: 2920
+[2026-01-15 00:55:16.477] [info] [tid 4448] Fetching art for AppID: 2990
+[2026-01-15 00:55:16.477] [info] [tid 4448] Fetching art for AppID: 3010
+[2026-01-15 00:55:16.478] [info] [tid 4448] Fetching art for AppID: 3020
+[2026-01-15 00:55:16.478] [info] [tid 4448] Fetching art for AppID: 3050
+[2026-01-15 00:55:16.478] [info] [tid 4448] Fetching art for AppID: 3130
+[2026-01-15 00:55:16.478] [info] [tid 4448] Fetching art for AppID: 3170
+[2026-01-15 00:55:16.479] [info] [tid 4448] Fetching art for AppID: 3230
+[2026-01-15 00:55:16.479] [info] [tid 4448] Fetching art for AppID: 3260
+[2026-01-15 00:55:16.479] [info] [tid 4448] Fetching art for AppID: 3270
+[2026-01-15 00:55:16.479] [info] [tid 4448] Fetching art for AppID: 3300
+[2026-01-15 00:55:16.480] [info] [tid 4448] Fetching art for AppID: 3310
+[2026-01-15 00:55:16.480] [info] [tid 4448] Fetching art for AppID: 3320
+[2026-01-15 00:55:16.480] [info] [tid 4448] Fetching art for AppID: 3330
+[2026-01-15 00:55:16.480] [info] [tid 4448] Fetching art for AppID: 3340
+[2026-01-15 00:55:16.481] [info] [tid 4448] Fetching art for AppID: 3350
+[2026-01-15 00:55:16.481] [info] [tid 4448] Fetching art for AppID: 3360
+[2026-01-15 00:55:16.481] [info] [tid 4448] Fetching art for AppID: 3380
+[2026-01-15 00:55:16.481] [info] [tid 4448] Fetching art for AppID: 3390
+[2026-01-15 00:55:16.482] [info] [tid 4448] Fetching art for AppID: 3400
+[2026-01-15 00:55:16.482] [info] [tid 4448] Fetching art for AppID: 3410
+[2026-01-15 00:55:16.482] [info] [tid 4448] Fetching art for AppID: 3420
+[2026-01-15 00:55:16.482] [info] [tid 4448] Fetching art for AppID: 3430
+[2026-01-15 00:55:16.482] [info] [tid 4448] Fetching art for AppID: 3450
+[2026-01-15 00:55:16.483] [info] [tid 4448] Fetching art for AppID: 3460
+[2026-01-15 00:55:16.483] [info] [tid 4448] Fetching art for AppID: 3480
+[2026-01-15 00:55:16.483] [info] [tid 4448] Fetching art for AppID: 3483
+[2026-01-15 00:55:16.483] [info] [tid 4448] Fetching art for AppID: 3490
+[2026-01-15 00:55:20.152] [info] [tid 4448] Checking for updates...
+[2026-01-15 00:55:20.214] [info] [tid 4448] Fetching art for AppID: 10
+[2026-01-15 00:55:20.214] [info] [tid 4448] Fetching art for AppID: 20
+[2026-01-15 00:55:20.215] [info] [tid 4448] Fetching art for AppID: 30
+[2026-01-15 00:55:20.215] [info] [tid 4448] Fetching art for AppID: 40
+[2026-01-15 00:55:20.215] [info] [tid 4448] Fetching art for AppID: 50
+[2026-01-15 00:55:20.216] [info] [tid 4448] Fetching art for AppID: 60
+[2026-01-15 00:55:20.216] [info] [tid 4448] Fetching art for AppID: 70
+[2026-01-15 00:55:20.216] [info] [tid 4448] Fetching art for AppID: 80
+[2026-01-15 00:55:20.216] [info] [tid 4448] Fetching art for AppID: 130
+[2026-01-15 00:55:20.216] [info] [tid 4448] Fetching art for AppID: 220
+[2026-01-15 00:55:20.217] [info] [tid 4448] Fetching art for AppID: 240
+[2026-01-15 00:55:20.217] [info] [tid 4448] Fetching art for AppID: 300
+[2026-01-15 00:55:20.217] [info] [tid 4448] Fetching art for AppID: 320
+[2026-01-15 00:55:20.217] [info] [tid 4448] Fetching art for AppID: 360
+[2026-01-15 00:55:20.218] [info] [tid 4448] Fetching art for AppID: 400
+[2026-01-15 00:55:20.218] [info] [tid 4448] Fetching art for AppID: 440
+[2026-01-15 00:55:20.218] [info] [tid 4448] Fetching art for AppID: 500
+[2026-01-15 00:55:20.218] [info] [tid 4448] Fetching art for AppID: 550
+[2026-01-15 00:55:20.218] [info] [tid 4448] Fetching art for AppID: 570
+[2026-01-15 00:55:20.219] [info] [tid 4448] Fetching art for AppID: 620
+[2026-01-15 00:55:20.219] [info] [tid 4448] Fetching art for AppID: 630
+[2026-01-15 00:55:20.219] [info] [tid 4448] Fetching art for AppID: 730
+[2026-01-15 00:55:20.219] [info] [tid 4448] Fetching art for AppID: 1002
+[2026-01-15 00:55:20.220] [info] [tid 4448] Fetching art for AppID: 1200
+[2026-01-15 00:55:20.220] [info] [tid 4448] Fetching art for AppID: 1250
+[2026-01-15 00:55:20.220] [info] [tid 4448] Fetching art for AppID: 1300
+[2026-01-15 00:55:20.220] [info] [tid 4448] Fetching art for AppID: 1313
+[2026-01-15 00:55:20.220] [info] [tid 4448] Fetching art for AppID: 1500
+[2026-01-15 00:55:20.221] [info] [tid 4448] Fetching art for AppID: 1510
+[2026-01-15 00:55:20.221] [info] [tid 4448] Fetching art for AppID: 1520
+[2026-01-15 00:55:20.221] [info] [tid 4448] Fetching art for AppID: 1530
+[2026-01-15 00:55:20.221] [info] [tid 4448] Fetching art for AppID: 1600
+[2026-01-15 00:55:20.222] [info] [tid 4448] Fetching art for AppID: 1610
+[2026-01-15 00:55:20.222] [info] [tid 4448] Fetching art for AppID: 1620
+[2026-01-15 00:55:20.222] [info] [tid 4448] Fetching art for AppID: 1630
+[2026-01-15 00:55:20.222] [info] [tid 4448] Fetching art for AppID: 1640
+[2026-01-15 00:55:20.223] [info] [tid 4448] Fetching art for AppID: 1670
+[2026-01-15 00:55:20.223] [info] [tid 4448] Fetching art for AppID: 1690
+[2026-01-15 00:55:20.223] [info] [tid 4448] Fetching art for AppID: 1700
+[2026-01-15 00:55:20.224] [info] [tid 4448] Fetching art for AppID: 1840
+[2026-01-15 00:55:20.224] [info] [tid 4448] Fetching art for AppID: 1900
+[2026-01-15 00:55:20.224] [info] [tid 4448] Fetching art for AppID: 1930
+[2026-01-15 00:55:20.224] [info] [tid 4448] Fetching art for AppID: 2100
+[2026-01-15 00:55:20.224] [info] [tid 4448] Fetching art for AppID: 2200
+[2026-01-15 00:55:20.225] [info] [tid 4448] Fetching art for AppID: 2210
+[2026-01-15 00:55:20.225] [info] [tid 4448] Fetching art for AppID: 2270
+[2026-01-15 00:55:20.225] [info] [tid 4448] Fetching art for AppID: 2280
+[2026-01-15 00:55:20.225] [info] [tid 4448] Fetching art for AppID: 2310
+[2026-01-15 00:55:20.226] [info] [tid 4448] Fetching art for AppID: 2320
+[2026-01-15 00:55:20.226] [info] [tid 4448] Fetching art for AppID: 2400
+[2026-01-15 00:55:20.226] [info] [tid 4448] Fetching art for AppID: 2420
+[2026-01-15 00:55:20.226] [info] [tid 4448] Fetching art for AppID: 2450
+[2026-01-15 00:55:20.227] [info] [tid 4448] Fetching art for AppID: 2500
+[2026-01-15 00:55:20.227] [info] [tid 4448] Fetching art for AppID: 2520
+[2026-01-15 00:55:20.227] [info] [tid 4448] Fetching art for AppID: 2540
+[2026-01-15 00:55:20.228] [info] [tid 4448] Fetching art for AppID: 2590
+[2026-01-15 00:55:20.228] [info] [tid 4448] Fetching art for AppID: 2600
+[2026-01-15 00:55:20.228] [info] [tid 4448] Fetching art for AppID: 2610
+[2026-01-15 00:55:20.228] [info] [tid 4448] Fetching art for AppID: 2620
+[2026-01-15 00:55:20.229] [info] [tid 4448] Fetching art for AppID: 2630
+[2026-01-15 00:55:20.229] [info] [tid 4448] Fetching art for AppID: 2640
+[2026-01-15 00:55:20.229] [info] [tid 4448] Fetching art for AppID: 2700
+[2026-01-15 00:55:20.229] [info] [tid 4448] Fetching art for AppID: 2710
+[2026-01-15 00:55:20.230] [info] [tid 4448] Fetching art for AppID: 2720
+[2026-01-15 00:55:20.230] [info] [tid 4448] Fetching art for AppID: 2800
+[2026-01-15 00:55:20.230] [info] [tid 4448] Fetching art for AppID: 2810
+[2026-01-15 00:55:20.230] [info] [tid 4448] Fetching art for AppID: 2820
+[2026-01-15 00:55:20.231] [info] [tid 4448] Fetching art for AppID: 2840
+[2026-01-15 00:55:20.231] [info] [tid 4448] Fetching art for AppID: 2850
+[2026-01-15 00:55:20.231] [info] [tid 4448] Fetching art for AppID: 2870
+[2026-01-15 00:55:20.231] [info] [tid 4448] Fetching art for AppID: 2900
+[2026-01-15 00:55:20.232] [info] [tid 4448] Fetching art for AppID: 2910
+[2026-01-15 00:55:20.232] [info] [tid 4448] Fetching art for AppID: 2920
+[2026-01-15 00:55:20.232] [info] [tid 4448] Fetching art for AppID: 2990
+[2026-01-15 00:55:20.232] [info] [tid 4448] Fetching art for AppID: 3010
+[2026-01-15 00:55:20.233] [info] [tid 4448] Fetching art for AppID: 3020
+[2026-01-15 00:55:20.233] [info] [tid 4448] Fetching art for AppID: 3050
+[2026-01-15 00:55:20.233] [info] [tid 4448] Fetching art for AppID: 3130
+[2026-01-15 00:55:20.233] [info] [tid 4448] Fetching art for AppID: 3170
+[2026-01-15 00:55:20.234] [info] [tid 4448] Fetching art for AppID: 3230
+[2026-01-15 00:55:20.234] [info] [tid 4448] Fetching art for AppID: 3260
+[2026-01-15 00:55:20.234] [info] [tid 4448] Fetching art for AppID: 3270
+[2026-01-15 00:55:20.234] [info] [tid 4448] Fetching art for AppID: 3300
+[2026-01-15 00:55:20.234] [info] [tid 4448] Fetching art for AppID: 3310
+[2026-01-15 00:55:20.235] [info] [tid 4448] Fetching art for AppID: 3320
+[2026-01-15 00:55:20.235] [info] [tid 4448] Fetching art for AppID: 3330
+[2026-01-15 00:55:20.235] [info] [tid 4448] Fetching art for AppID: 3340
+[2026-01-15 00:55:20.235] [info] [tid 4448] Fetching art for AppID: 3350
+[2026-01-15 00:55:20.236] [info] [tid 4448] Fetching art for AppID: 3360
+[2026-01-15 00:55:20.236] [info] [tid 4448] Fetching art for AppID: 3380
+[2026-01-15 00:55:20.236] [info] [tid 4448] Fetching art for AppID: 3390
+[2026-01-15 00:55:20.236] [info] [tid 4448] Fetching art for AppID: 3400
+[2026-01-15 00:55:20.237] [info] [tid 4448] Fetching art for AppID: 3410
+[2026-01-15 00:55:20.237] [info] [tid 4448] Fetching art for AppID: 3420
+[2026-01-15 00:55:20.237] [info] [tid 4448] Fetching art for AppID: 3430
+[2026-01-15 00:55:20.237] [info] [tid 4448] Fetching art for AppID: 3450
+[2026-01-15 00:55:20.238] [info] [tid 4448] Fetching art for AppID: 3460
+[2026-01-15 00:55:20.238] [info] [tid 4448] Fetching art for AppID: 3480
+[2026-01-15 00:55:20.238] [info] [tid 4448] Fetching art for AppID: 3483
+[2026-01-15 00:55:20.238] [info] [tid 4448] Fetching art for AppID: 3490
+[2026-01-15 00:55:22.142] [error] [tid 4448] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
+[2026-01-15 01:13:44.694] [info] [tid 23000] --- LOGGING ---
+[2026-01-15 01:13:44.694] [info] [tid 23000] === Steam Idler Enhanced GUI Mode ===
+[2026-01-15 01:13:44.695] [info] [tid 23000] Stealth Engine initialized
+[2026-01-15 01:13:44.695] [info] [tid 23000] Applying stealth measures...
+[2026-01-15 01:13:44.696] [info] [tid 23000] Renamed ghost_launcher.exe to sys134proc.exe
+[2026-01-15 01:13:44.696] [info] [tid 23000] Renamed steam_api64.dll to nt474host.dll
+[2026-01-15 01:13:44.705] [info] [tid 23000] Created decoy process: smss.exe
+[2026-01-15 01:13:44.708] [info] [tid 23000] Created decoy process: smss.exe
+[2026-01-15 01:13:44.708] [info] [tid 23000] Stealth measures applied - process disguised as: svc935svc.exe
+[2026-01-15 01:13:44.823] [info] [tid 23000] Session History initialized
+[2026-01-15 01:13:44.824] [info] [tid 23000] Session history tables created successfully
+[2026-01-15 01:13:44.824] [info] [tid 23000] Initializing GameBrowser with modern fluent design
+[2026-01-15 01:13:44.844] [info] [tid 23000] Steam Art Fetcher initialized
+[2026-01-15 01:13:44.844] [info] [tid 23000] Update Checker initialized - Current version: 1.1.0
+[2026-01-15 01:13:45.515] [info] [tid 23000] Checking for updates...
+[2026-01-15 01:13:46.275] [error] [tid 23000] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
+[2026-01-15 01:14:05.180] [error] [tid 23000] Failed to start launcher for ID: 2242070
+[2026-01-15 01:14:08.976] [error] [tid 23000] Failed to start launcher for ID: 3478470
+[2026-01-15 01:14:09.768] [error] [tid 23000] Failed to start launcher for ID: 3478470
+[2026-01-15 01:14:09.769] [error] [tid 23000] Failed to start launcher for ID: 2242070
+[2026-01-15 01:14:37.838] [info] [tid 23000] Session started: Counter-Strike 2 (AppID: 730)
+[2026-01-15 01:14:42.583] [info] [tid 23000] Session stopped: AppID 730 - Duration: 5 seconds
+[2026-01-15 01:18:44.842] [info] [tid 23000] Art cache cleared

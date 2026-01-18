@@ -1,0 +1,120 @@
+/* --- Global Window Styling --- */
+QMainWindow, QDialog {
+    background-color: #0c0c0c;
+    color: #e0e0e0;
+    font-family: "Segoe UI", "Inter", sans-serif;
+}
+
+/* --- Sidebar Styling --- */
+QFrame#Sidebar {
+    background-color: #111111;
+    border-right: 1px solid #1f1f1f;
+}
+
+/* --- Input Fields (Search Bar) --- */
+QLineEdit#SearchBar {
+    background-color: #181818;
+    color: #ffffff;
+    border: 1px solid #282828;
+    border-radius: 8px;
+    padding: 10px 15px;
+    selection-background-color: #0078d4;
+}
+
+QLineEdit#SearchBar:focus {
+    border: 1px solid #0078d4;
+    background-color: #1e1e1e;
+}
+
+/* --- Cards (Game Results) --- */
+QWidget#GameCard {
+    background-color: #181818;
+    border: 1px solid #252525;
+    border-radius: 10px;
+}
+
+QWidget#GameCard:hover {
+    background-color: #1f1f1f;
+    border: 1px solid #3a3a3a;
+}
+
+/* --- Active Session Cards (Sidebar) --- */
+QWidget#SessionCard {
+    background-color: #141a14;
+    border: 1px solid #1e331e;
+    border-radius: 8px;
+}
+
+/* --- Labels --- */
+QLabel#GameTitle {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+QLabel#TimerLabel {
+    color: #00ff88;
+    font-family: "JetBrains Mono", "Consolas", monospace;
+    font-weight: bold;
+}
+
+QLabel#SidebarHeader {
+    color: #0078d4;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+
+/* --- Buttons --- */
+QPushButton#ActionBtn {
+    background-color: #0078d4;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+QPushButton#ActionBtn:hover {
+    background-color: #1086e1;
+}
+
+QPushButton#ActionBtn:disabled {
+    background-color: #222222;
+    color: #555555;
+}
+
+QPushButton#StopBtn {
+    background-color: #2d1616;
+    color: #ff5555;
+    border: 1px solid #4d2525;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+QPushButton#StopBtn:hover {
+    background-color: #441a1a;
+    color: #ffffff;
+    border-color: #ff5555;
+}
+
+/* --- Combo Boxes (Settings) --- */
+QComboBox {
+    background-color: #181818;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    padding: 5px 10px;
+    color: #ffffff;
+}
+
+QComboBox::drop-down {
+    border: none;
+    width: 20px;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #181818;
+    color: #ffffff;
+    selection-background-color: #0078d4;
+    outline: none;
+    border: 1px solid #333333;
+}

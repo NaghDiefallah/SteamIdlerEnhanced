@@ -1,0 +1,33 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        
+        <!-- <file>assets/icons/app_icon.ico</file>
+        <file>assets/icons/settings.svg</file>
+        <file>assets/icons/refresh.svg</file>
+        <file>assets/icons/stop.svg</file>
+        <file>assets/icons/play.svg</file>
+        <file>assets/icons/search.svg</file>
+        <file>assets/icons/check.svg</file> -->
+        
+        <file>themes/Dark.qss</file>
+        <file>themes/Light.qss</file>
+
+        <!-- Embedded runtime dependencies -->
+        <file>ghost_launcher.exe</file>
+        <file>steam_api64.dll</file>
+
+        <file>data/lang/en.json</file>
+        <file>data/lang/ru.json</file>
+        <file>data/lang/es.json</file>
+        <file>data/lang/fr.json</file>
+        <file>data/lang/de.json</file>
+        <file>data/lang/ar.json</file>
+        <file>data/lang/zh.json</file>
+
+        <!-- <file>assets/fonts/Inter-Regular.ttf</file>
+        <file>assets/fonts/Inter-Bold.ttf</file>
+        <file>assets/fonts/JetBrainsMono-Bold.ttf</file> -->
+
+    </qresource>
+</RCC>

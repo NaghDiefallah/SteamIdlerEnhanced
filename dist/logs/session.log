@@ -1,0 +1,117 @@
+[2026-01-18 23:06:21.421] [info] [tid 22812] --- LOGGING ---
+[2026-01-18 23:06:21.421] [info] [tid 22812] === Steam Idler Enhanced GUI Mode ===
+[2026-01-18 23:06:21.421] [info] [tid 22812] Initializing DLL loader...
+[2026-01-18 23:06:21.422] [info] [tid 22812] Added application directory to DLL search path: D:/Projects/SteamIdlerEnhanced/dist
+[2026-01-18 23:06:21.422] [info] [tid 22812] All critical DLLs verified
+[2026-01-18 23:06:21.423] [info] [tid 22812] Stealth Engine initialized
+[2026-01-18 23:06:21.423] [info] [tid 22812] Applying stealth measures...
+[2026-01-18 23:06:21.424] [info] [tid 22812] Renamed ghost_launcher.exe to sys532svc.exe
+[2026-01-18 23:06:21.424] [info] [tid 22812] Renamed steam_api64.dll to win732host.dll
+[2026-01-18 23:06:21.432] [info] [tid 22812] Created decoy process: services.exe
+[2026-01-18 23:06:21.434] [info] [tid 22812] Created decoy process: System
+[2026-01-18 23:06:21.434] [info] [tid 22812] Stealth measures applied - process disguised as: ms996sys.exe
+[2026-01-18 23:06:21.435] [info] [tid 22812] Extracted embedded ghost_launcher.exe to D:/Projects/SteamIdlerEnhanced/dist/ghost_launcher.exe
+[2026-01-18 23:06:21.436] [info] [tid 22812] Extracted embedded steam_api64.dll to D:/Projects/SteamIdlerEnhanced/dist/steam_api64.dll
+[2026-01-18 23:06:21.542] [info] [tid 22812] Session History initialized
+[2026-01-18 23:06:21.542] [info] [tid 22812] Session history tables created successfully
+[2026-01-18 23:06:21.542] [info] [tid 22812] Statistics initialized
+[2026-01-18 23:06:21.542] [info] [tid 22812] Statistics database initialized: data/app_data.db
+[2026-01-18 23:06:21.542] [info] [tid 22812] Categories initialized
+[2026-01-18 23:06:21.542] [info] [tid 22812] Categories database initialized: data/app_data.db
+[2026-01-18 23:06:21.542] [info] [tid 22812] ThemeManager initialized
+[2026-01-18 23:06:21.542] [info] [tid 22812] Theme initialized: Material Blue
+[2026-01-18 23:06:21.542] [info] [tid 22812] Initializing GameBrowser with modern fluent design
+[2026-01-18 23:06:21.562] [info] [tid 22812] Steam Art Fetcher initialized
+[2026-01-18 23:06:21.562] [info] [tid 22812] Update Checker initialized - Current version: 1.1.0
+[2026-01-18 23:06:22.187] [info] [tid 22812] Checking for updates...
+[2026-01-18 23:06:22.710] [error] [tid 22812] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
+[2026-01-18 23:06:37.467] [info] [tid 22812] Session stopped: AppID 730 - Duration: 15 seconds
+[2026-01-18 23:07:02.653] [info] [tid 22812] Starting idle session for Rust (ID: 252490)
+[2026-01-18 23:07:03.013] [info] [tid 22812] Session started: Rust (AppID: 252490)
+[2026-01-18 23:07:03.013] [info] [tid 22812] Idle session started successfully for Rust (ID: 252490)
+[2026-01-18 23:07:16.835] [info] [tid 22812] Session stopped: AppID 252490 - Duration: 14 seconds
+[2026-01-18 23:07:26.080] [info] [tid 15876] --- LOGGING ---
+[2026-01-18 23:07:26.080] [info] [tid 15876] === Steam Idler Enhanced GUI Mode ===
+[2026-01-18 23:07:26.080] [info] [tid 15876] Initializing DLL loader...
+[2026-01-18 23:07:26.081] [info] [tid 15876] Added application directory to DLL search path: D:/Projects/SteamIdlerEnhanced/dist
+[2026-01-18 23:07:26.081] [info] [tid 15876] All critical DLLs verified
+[2026-01-18 23:07:26.081] [info] [tid 15876] Stealth Engine initialized
+[2026-01-18 23:07:26.081] [info] [tid 15876] Applying stealth measures...
+[2026-01-18 23:07:26.082] [info] [tid 15876] Renamed ghost_launcher.exe to win131host.exe
+[2026-01-18 23:07:26.083] [info] [tid 15876] Renamed steam_api64.dll to svc147svc.dll
+[2026-01-18 23:07:26.090] [info] [tid 15876] Created decoy process: smss.exe
+[2026-01-18 23:07:26.092] [info] [tid 15876] Created decoy process: lsass.exe
+[2026-01-18 23:07:26.092] [info] [tid 15876] Stealth measures applied - process disguised as: win846svc.exe
+[2026-01-18 23:07:26.093] [info] [tid 15876] Extracted embedded ghost_launcher.exe to D:/Projects/SteamIdlerEnhanced/dist/ghost_launcher.exe
+[2026-01-18 23:07:26.094] [info] [tid 15876] Extracted embedded steam_api64.dll to D:/Projects/SteamIdlerEnhanced/dist/steam_api64.dll
+[2026-01-18 23:07:26.196] [info] [tid 15876] Session History initialized
+[2026-01-18 23:07:26.197] [info] [tid 15876] Session history tables created successfully
+[2026-01-18 23:07:26.197] [info] [tid 15876] Statistics initialized
+[2026-01-18 23:07:26.197] [info] [tid 15876] Statistics database initialized: data/app_data.db
+[2026-01-18 23:07:26.197] [info] [tid 15876] Categories initialized
+[2026-01-18 23:07:26.197] [info] [tid 15876] Categories database initialized: data/app_data.db
+[2026-01-18 23:07:26.197] [info] [tid 15876] ThemeManager initialized
+[2026-01-18 23:07:26.197] [info] [tid 15876] Theme initialized: Material Blue
+[2026-01-18 23:07:26.197] [info] [tid 15876] Initializing GameBrowser with modern fluent design
+[2026-01-18 23:07:26.215] [info] [tid 15876] Steam Art Fetcher initialized
+[2026-01-18 23:07:26.215] [info] [tid 15876] Update Checker initialized - Current version: 1.1.0
+[2026-01-18 23:07:26.863] [info] [tid 15876] Checking for updates...
+[2026-01-18 23:07:31.597] [error] [tid 15876] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
+[2026-01-18 23:25:36.674] [info] [tid 20920] --- LOGGING ---
+[2026-01-18 23:25:36.674] [info] [tid 20920] === Steam Idler Enhanced GUI Mode ===
+[2026-01-18 23:25:36.674] [info] [tid 20920] Initializing DLL loader...
+[2026-01-18 23:25:36.675] [info] [tid 20920] Added application directory to DLL search path: D:/Projects/SteamIdlerEnhanced/dist
+[2026-01-18 23:25:36.675] [info] [tid 20920] All critical DLLs verified
+[2026-01-18 23:25:36.676] [info] [tid 20920] Stealth Engine initialized
+[2026-01-18 23:25:36.676] [info] [tid 20920] Applying stealth measures...
+[2026-01-18 23:25:36.676] [info] [tid 20920] Renamed ghost_launcher.exe to nt872proc.exe
+[2026-01-18 23:25:36.677] [info] [tid 20920] Renamed steam_api64.dll to svc163mgr.dll
+[2026-01-18 23:25:36.684] [info] [tid 20920] Created decoy process: winlogon.exe
+[2026-01-18 23:25:36.686] [info] [tid 20920] Created decoy process: explorer.exe
+[2026-01-18 23:25:36.686] [info] [tid 20920] Stealth measures applied - process disguised as: ms402mgr.exe
+[2026-01-18 23:25:36.688] [info] [tid 20920] Extracted embedded ghost_launcher.exe to D:/Projects/SteamIdlerEnhanced/dist/ghost_launcher.exe
+[2026-01-18 23:25:36.688] [info] [tid 20920] Extracted embedded steam_api64.dll to D:/Projects/SteamIdlerEnhanced/dist/steam_api64.dll
+[2026-01-18 23:25:36.791] [info] [tid 20920] Session History initialized
+[2026-01-18 23:25:36.792] [info] [tid 20920] Session history tables created successfully
+[2026-01-18 23:25:36.792] [info] [tid 20920] Statistics initialized
+[2026-01-18 23:25:36.792] [info] [tid 20920] Statistics database initialized: data/app_data.db
+[2026-01-18 23:25:36.792] [info] [tid 20920] Categories initialized
+[2026-01-18 23:25:36.792] [info] [tid 20920] Categories database initialized: data/app_data.db
+[2026-01-18 23:25:36.792] [info] [tid 20920] ThemeManager initialized
+[2026-01-18 23:25:36.792] [info] [tid 20920] Theme initialized: Material Blue
+[2026-01-18 23:25:36.792] [info] [tid 20920] Initializing GameBrowser with modern fluent design
+[2026-01-18 23:25:36.809] [info] [tid 20920] Steam Art Fetcher initialized
+[2026-01-18 23:25:36.809] [info] [tid 20920] Update Checker initialized - Current version: 1.1.0
+[2026-01-18 23:25:37.430] [info] [tid 20920] Checking for updates...
+[2026-01-18 23:25:38.227] [error] [tid 20920] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
+[2026-01-18 23:25:49.321] [info] [tid 20920] Starting idle session for Counter-Strike 2 (ID: 730)
+[2026-01-18 23:25:49.723] [info] [tid 20920] Session started: Counter-Strike 2 (AppID: 730)
+[2026-01-18 23:25:49.723] [info] [tid 20920] Idle session started successfully for Counter-Strike 2 (ID: 730)
+[2026-01-18 23:25:54.383] [info] [tid 20920] Session stopped: AppID 730 - Duration: 5 seconds
+[2026-01-18 23:42:01.392] [info] [tid 22588] --- LOGGING ---
+[2026-01-18 23:42:01.392] [info] [tid 22588] === Steam Idler Enhanced GUI Mode ===
+[2026-01-18 23:42:01.392] [info] [tid 22588] Initializing DLL loader...
+[2026-01-18 23:42:01.392] [info] [tid 22588] Added application directory to DLL search path: D:/Projects/SteamIdlerEnhanced/dist
+[2026-01-18 23:42:01.392] [info] [tid 22588] All critical DLLs verified
+[2026-01-18 23:42:01.393] [info] [tid 22588] Stealth Engine initialized
+[2026-01-18 23:42:01.393] [info] [tid 22588] Applying stealth measures...
+[2026-01-18 23:42:01.394] [info] [tid 22588] Renamed ghost_launcher.exe to win829host.exe
+[2026-01-18 23:42:01.394] [info] [tid 22588] Renamed steam_api64.dll to win530mgr.dll
+[2026-01-18 23:42:01.403] [info] [tid 22588] Created decoy process: winlogon.exe
+[2026-01-18 23:42:01.404] [info] [tid 22588] Created decoy process: System
+[2026-01-18 23:42:01.404] [info] [tid 22588] Stealth measures applied - process disguised as: sys993svc.exe
+[2026-01-18 23:42:01.406] [info] [tid 22588] Extracted embedded ghost_launcher.exe to D:/Projects/SteamIdlerEnhanced/dist/ghost_launcher.exe
+[2026-01-18 23:42:01.407] [info] [tid 22588] Extracted embedded steam_api64.dll to D:/Projects/SteamIdlerEnhanced/dist/steam_api64.dll
+[2026-01-18 23:42:01.514] [info] [tid 22588] Session History initialized
+[2026-01-18 23:42:01.514] [info] [tid 22588] Session history tables created successfully
+[2026-01-18 23:42:01.514] [info] [tid 22588] Statistics initialized
+[2026-01-18 23:42:01.514] [info] [tid 22588] Statistics database initialized: data/app_data.db
+[2026-01-18 23:42:01.514] [info] [tid 22588] Categories initialized
+[2026-01-18 23:42:01.514] [info] [tid 22588] Categories database initialized: data/app_data.db
+[2026-01-18 23:42:01.514] [info] [tid 22588] ThemeManager initialized
+[2026-01-18 23:42:01.514] [info] [tid 22588] Theme initialized: Material Blue
+[2026-01-18 23:42:01.514] [info] [tid 22588] Initializing GameBrowser with modern fluent design
+[2026-01-18 23:42:01.534] [info] [tid 22588] Steam Art Fetcher initialized
+[2026-01-18 23:42:01.534] [info] [tid 22588] Update Checker initialized - Current version: 1.1.0
+[2026-01-18 23:42:02.213] [info] [tid 22588] Checking for updates...
+[2026-01-18 23:42:02.842] [error] [tid 22588] Update check failed: Error transferring https://api.github.com/repos/yourusername/SteamIdlerEnhanced/releases/latest - server replied with status code 404
